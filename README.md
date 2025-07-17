@@ -30,7 +30,7 @@
 - [LinkedIn](https://www.linkedin.com/in/arman-ali-430191285/)
 - [LeetCode](https://leetcode.com/u/arman-ali/)
 - [GFG](https://www.geeksforgeeks.org/user/armanali2005/)
-- [HackerRank](https://www.hackerrank.com/profile/armanali0178614)
+- [CodeForces]()
  
 ---
 
