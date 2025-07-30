@@ -9,7 +9,7 @@
 - 📈 Always **learning** and **improving** coding skills<br>
 - 🔍 I’m looking to collaborate on **Open Source Projects**<br>
   
-- 📄 **Check out my Resume:** Coming soon
+- 📄 **Check out my Codolio:** https://codolio.com/profile/arman-ali24/card
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
