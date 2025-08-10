@@ -4,7 +4,7 @@
 </p>
 <img align="right" width="300" alt="coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ6ZTlqN2RvODFmd2w4dzUzMnQwNDFibHhtcG1jNm5ma2N4N2t1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 I’m Second-Year **Computer Science** Student at **IES College of Technology**<br>
+- 🎓 Pre-Final Year **Computer Science** Student at **IES College of Technology**<br>
 - 💻 Interested in **Full-Stack Development** and **Problem Solving**<br>
 - 📈 Always **learning** and **improving** coding skills<br>
 - 🔍 I’m looking to collaborate on **Open Source Projects**<br>
